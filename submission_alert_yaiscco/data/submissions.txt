@@ -1,0 +1,12 @@
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+
+# >>> Additional sample entries added by create_environment.sh
+Yai Majak,y.majak,Assignment1,not_submitted,2025-10-10
+Victoria Athou,v.athou,Assignment1,submitted,2025-10-08
+Atem Anyier,a.anyier,Assignment1,not_submitted,2025-10-11
+Akoi Garang,a.garang,Assignment1,not_submitted,2025-10-12
+NBA Youngboy,n.youngboy,Assignment1,submitted,2025-10-07

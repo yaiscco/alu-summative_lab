@@ -18,7 +18,7 @@ if [ -f "config/config.env" ]; then
   CONFIG_PATH="config/config.env"
 else
   # Find the first submission_reminder_* directory
-  APP_DIR=$(ls -d submission_reminder_* 2>/dev/null | head -n1 || true)
+  APP_DIR=$(ls -d submission_alert_* 2>/dev/null | head -n1 || true)
   if [ -n "$APP_DIR" ] && [ -f "$APP_DIR/config/config.env" ]; then
     CONFIG_PATH="$APP_DIR/config/config.env"
   fi
